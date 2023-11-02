@@ -1,6 +1,6 @@
 # Projeto Peixonauta - Alimentador Automático de Peixes
 
-![Peixonauta](https://i.imgur.com/sq2MRzU.jpeg)
+![Peixonauta](https://i.imgur.com/PzBbUcE.jpg)
 
 ## Descrição
 O Projeto Peixonauta é um alimentador automático de peixes que permite que você programe horários para alimentar seus peixes de forma automática. O projeto utiliza um servo motor para dispensar a comida e um LED como indicador visual durante o processo de alimentação.
@@ -16,7 +16,10 @@ O Projeto Peixonauta foi desenvolvido com as seguintes tecnologias:
 - Linguagem de Programação: C++
 - Plataforma de Desenvolvimento: Arduino IDE
 
-## Conquista na Mostra Científica e de Tecnologia do Senai Alagoinhas ![premiação dos projetos] (https://i.imgur.com/l05beTu.jpeg)
+## Conquista na Mostra Científica e de Tecnologia do Senai Alagoinhas.
+
+![premiação dos projetos](https://i.imgur.com/PzBbUcE.jpg)
+
 O Projeto Peixonauta conquistou o segundo lugar na Mostra Científica e de Tecnologia do Senai Alagoinhas. Estamos orgulhosos de ter sido reconhecidos por nossa inovação e engenhosidade neste evento.
 
 ## Componentes Necessários
